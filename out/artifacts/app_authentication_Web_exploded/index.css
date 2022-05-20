@@ -1,0 +1,99 @@
+body{
+    background-color: #76b852;
+}
+.container {
+    width: 960px;
+    max-width: 100%;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text_align {
+    text-align: center;
+}
+.text {
+    width: 100%;
+    float: left;
+}
+h2 {
+    font-size: 50px;
+    line-height: 55px;
+    margin-bottom: 20px;
+    color: #030101;
+    font-weight: 700;
+}
+.text p{
+
+    margin-bottom: 30px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #252626;
+    font-weight: 300;
+    margin-top: 5px;
+
+}
+.cour + h3 {
+    margin-top: 30px;
+    font-size: 28px;
+}
+h3 {
+    font-size: 35px;
+    line-height: normal;
+    margin-bottom: 17px;
+    font-weight: 600;
+    color: #111428;
+    letter-spacing: -1px;
+    line-height: 35px;
+}
+.text_align {
+    float: left;
+    height: 75px;
+    width: 235px;
+    margin: 40px;
+}
+.text_align .cour img{
+    width: 100%;
+    border-radius: 50%;
+}
+.aboutMe{
+    background-image: url("https://c8.alamy.com/comp/2DD1M5Y/group-of-business-people-together-with-director-working-in-the-office-and-discussing-new-ideas-2DD1M5Y.jpg");
+    height: 800px;
+    border-radius: 50%;
+}
+.aboutMe h1 {
+    text-align: center;
+    color: red;
+    font-size: 70px;
+}
+.aboutMe p{
+    text-align: center;
+    font-size: 50px;
+    margin: 200px;
+    color: red;
+}
+.main{
+    text-align: center;
+
+}
+.main h1{
+    color: green;
+    background-color: white;
+    margin: 0 500px 0 500px;
+}
+.main h4{
+    font-size: 50px;
+    color: white;
+}
+.main a{
+    font-size: 30px;
+    border: green solid 5px;
+    background-color: black;
+    color: white;
+    margin: 50px;
+}
